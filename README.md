@@ -1,5 +1,3 @@
-Here’s a concise and simple README.md for your project:
-
 Product Display App
 
 A React app to display a list of products and their details. Users can toggle visibility for product categories and individual product details.
